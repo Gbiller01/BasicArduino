@@ -7,35 +7,29 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 * [HelloArduino](#HelloArduino)
 * [FiniteLEDBlink](#FiniteLEDBlink)
 
-## HelloArduino
-
+## Hello Arduino
 ### Description & Code
-
-```C++
-
-```
-
-### Evidence
-[Here is my code on Arduino Create](https://create.arduino.cc/editor/helmstk1/9a3831dd-4b86-42f2-be49-c28b84874092/preview)
-
-### Image or Wiring
-<img src="http://troybaverstock.com/wp-content/uploads/2019/04/arduino-servo-button-red-green-RGB-LED-wiring-diagram.png" width="300px" /> 
-
-Image credit belongs to [Troy Baverstock](https://troybaverstock.com/learn/fritzing-circuit-diagrams/)
-
-### Reflection
-write a reflection here, remember that it should be usefull, not a diary entry.
-
-## FiniteLEDBlink
-
-### Description & Code
-
+This assignment was to make an led blink 2x per second.
 ```C++
 Code Goes Here
 ```
 
 ### Evidence
+https://create.arduino.cc/editor/gbiller01/479ca190-fdcf-4593-ba6e-6f88dff091b0
+### Image or Wiring
+
+### Reflection
+All you needed to do was take someone elses code and change two numbers then you were done.
+
+
+## FiniteLEDBlink###
+Description & Code
+This was an assignment where we needed to make an led blink 5 times then stop. 
+
+### Evidence
+[Here is my code on Arduino Create]https://create.arduino.cc/editor/gbiller01/479ca190-fdcf-4593-ba6e-6f88dff091b0
 
 ### Image or Wiring
 
 ### Reflection
+It was quite dificult and i needed lots of help. Mr. Helmstetter did a great job helping me. It feels great to get the code right at the end.
