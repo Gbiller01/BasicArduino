@@ -17,7 +17,7 @@ Code Goes Here
 ### Evidence
 https://create.arduino.cc/editor/gbiller01/479ca190-fdcf-4593-ba6e-6f88dff091b0
 ### Image or Wiring
-
+Im sorry, Im still having trouble inserting images and i think i need arefresher on tuesday.
 ### Reflection
 All you needed to do was take someone elses code and change two numbers then you were done.
 
